@@ -14,7 +14,7 @@ lightgbm==3.0.0
 loguru==0.5.3
 plotly==4.10.0
 pymongo==3.11.0
-PyYAML==5.3.1
+PyYAML==5.4
 redis==3.5.3
 redis_lock==0.2.0
 sacred==0.8.1
